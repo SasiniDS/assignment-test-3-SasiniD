@@ -23,7 +23,7 @@
     {
       "name": "Test 3",
       "setup": "",
-      "run": "ng test",
+      "run": "ng test --headless",
       "input": "",
       "output": "",
       "comparison": "included",
